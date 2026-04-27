@@ -17,7 +17,7 @@
 
 - 🔭 I build tools that blend hardware, AI, and web into practical, polished experiences.
 - 🧠 Currently exploring **agentic AI**, **RGB hardware control**, and **modern web UIs**.
-- 🐍 Primarily coding in **Python** and **JavaScript/React**.
+- 🐍 Primarily coding in **Python**, **JavaScript**, **HTML**, and **CSS**.
 - 💡 I believe great software should feel as good as it works.
 
 ---
@@ -27,9 +27,8 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -57,18 +56,6 @@
 - ��️ **Real-time voice** — Whisper STT + Edge TTS for natural conversation
 - 🖱️ Windows UIAutomation integration for native app control
 - ⭐ **1 star** · `Python` · `AI` · `Agentic` · `Ollama`
-
----
-
-### 💎 [Wegmo](https://github.com/AFcoder10/Wegmo)
-> A modern drag-and-drop web builder for stunning glassmorphic interfaces.
-
-- 🎨 **Visual editor** with real-time styling and drag-and-drop canvas
-- 🪟 **Glassmorphism effects** — blur, transparency, frosted glass — one click away
-- 📄 **Multi-page support** with live preview mode
-- 🔤 Google Fonts + custom font upload support
-- ⚡ Built with React 18, Vite, Framer Motion, SCSS
-- `JavaScript` · `React` · `Web Builder` · `Glassmorphism`
 
 ---
 
