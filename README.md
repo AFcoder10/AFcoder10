@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AFcoder10&style=flat-square&color=blue" alt="profile views" />
   <a href="https://github.com/AFcoder10?tab=followers">
     <img src="https://img.shields.io/github/followers/AFcoder10?label=Followers&style=flat-square" alt="followers" />
   </a>
