@@ -2,41 +2,28 @@
 
 > Builder of things that make computers more fun, more useful, and a little more alive.
 
-## ⚡ Quick Profile
-- 🔭 Building practical tools across hardware, AI, and the web
-- 🧠 Exploring agentic AI, RGB hardware control, and modern UIs
-- 🧩 Main stack: `Python` `JavaScript` `HTML` `CSS`
-- 💡 Goal: software that feels as good as it works
+## ⚡ About
+- Building practical tools across hardware, AI, and web
+- Exploring agentic AI, RGB control, and modern UI ideas
+- Stack: `Python` · `JavaScript` · `HTML` · `CSS`
 
 ## 📦 Featured Projects
 
 ### 🎨 [4-Zone-Keyboard-RGB-Toolkit](https://github.com/AFcoder10/4-Zone-Keyboard-RGB-Toolkit)
-Fluent Design-inspired RGB customization tool for Lenovo Legion & LOQ laptops.
-- Modes: Off, Static, Breath, Smooth, Wave + dynamic effects
-- Built for 4-zone RGB keyboards
-- `Python` · `Lenovo` · `RGB` · `Customization`
+Fluent-inspired RGB customization toolkit for Lenovo Legion & LOQ laptops.  
+`Python` · `Lenovo` · `RGB`
 
 ### 🤖 [Bernard-copilot](https://github.com/AFcoder10/Bernard-copilot)
-Fully local, agentic AI assistant for Windows powered by Ollama.
-- Private local runtime
-- 20+ tools (web, files, automation, communication)
-- Voice-ready with Whisper STT + Edge TTS
-- `Python` · `AI` · `Agentic` · `Ollama`
+Fully local, agentic AI assistant for Windows powered by Ollama.  
+`Python` · `AI` · `Agentic` · `Ollama`
 
-### 🎵 [simple-lyrics-app](https://github.com/AFcoder10/simple-lyrics-app)
-Minimal app to quickly search and read song lyrics.
-- Fast lookup flow
-- Lightweight and beginner-friendly
-- `JavaScript` · `Lyrics` · `Web App`
+### 🎵 [Simple-Lyrics](https://github.com/AFcoder10/Simple-Lyrics)
+Simple web app to quickly search and read lyrics.  
+`JavaScript` · `Lyrics` · `Web App`
 
 ### 🤖 [squirtleboss](https://github.com/AFcoder10/squirtleboss)
-Discord bot built in Python for automating server interactions.
-- Helpful server automation commands
-- Lightweight bot workflow
-- `Python` · `Discord Bot`
-
-## 🌌 Current Vibe
-`Build cool stuff` · `Keep it clean` · `Ship fast` · `Learn always`
+Discord bot for automating server interactions.  
+`Python` · `Discord Bot`
 
 ---
 *Feel free to explore my projects and reach out if you want to collaborate! 🚀*
