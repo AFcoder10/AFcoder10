@@ -25,5 +25,23 @@ Simple web app to quickly search and read lyrics.
 Discord bot for automating server interactions.  
 `Python` · `Discord Bot`
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AFcoder10&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFcoder10&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AFcoder10&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AFcoder10&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AFcoder10&theme=tokyo-night&hide_border=true" />
+</p>
+
 ---
 *Feel free to explore my projects and reach out if you want to collaborate! 🚀*
