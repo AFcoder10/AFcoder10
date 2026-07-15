@@ -1,79 +1,42 @@
-<h1 align="center">Hey, I'm AFcoder10 👋</h1>
+# Hey, I'm AFcoder10 👋
 
-<p align="center">
-  <em>Builder of things that make computers more fun, more useful, and a little more alive.</em>
-</p>
+> Builder of things that make computers more fun, more useful, and a little more alive.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AFcoder10&style=flat-square&color=blue" alt="profile views" />
-  <a href="https://github.com/AFcoder10?tab=followers">
-    <img src="https://img.shields.io/github/followers/AFcoder10?label=Followers&style=flat-square" alt="followers" />
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-- 🔭 I build tools that blend hardware, AI, and web into practical, polished experiences.
-- 🧠 Currently exploring **agentic AI**, **RGB hardware control**, and **modern web UIs**.
-- 🐍 Primarily coding in **Python**, **JavaScript**, **HTML**, and **CSS**.
-- 💡 I believe great software should feel as good as it works.
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
+## ⚡ Quick Profile
+- 🔭 Building practical tools across hardware, AI, and the web
+- 🧠 Exploring agentic AI, RGB hardware control, and modern UIs
+- 🧩 Main stack: `Python` `JavaScript` `HTML` `CSS`
+- 💡 Goal: software that feels as good as it works
 
 ## 📦 Featured Projects
 
 ### 🎨 [4-Zone-Keyboard-RGB-Toolkit](https://github.com/AFcoder10/4-Zone-Keyboard-RGB-Toolkit)
-> A Fluent Design-inspired RGB customization tool for Lenovo Legion & LOQ laptops.
-
-- 🖥️ **Hardware modes:** Off, Static, Breath, Smooth, Wave
-- ✨ **Software modes:** Live Audio Visualizer, Ambient Screen Color, Realistic Fire, Meteor Shower, Pomodoro Timer, and more
-- 🐍 Built with Python — optimized for 4-Zone RGB keyboards
-- ⭐ **1 star** · `Python` · `Lenovo` · `RGB` · `Customization`
-
----
+Fluent Design-inspired RGB customization tool for Lenovo Legion & LOQ laptops.
+- Modes: Off, Static, Breath, Smooth, Wave + dynamic effects
+- Built for 4-zone RGB keyboards
+- `Python` · `Lenovo` · `RGB` · `Customization`
 
 ### 🤖 [Bernard-copilot](https://github.com/AFcoder10/Bernard-copilot)
-> A fully local, agentic AI assistant for Windows powered by Ollama.
+Fully local, agentic AI assistant for Windows powered by Ollama.
+- Private local runtime
+- 20+ tools (web, files, automation, communication)
+- Voice-ready with Whisper STT + Edge TTS
+- `Python` · `AI` · `Agentic` · `Ollama`
 
-- 🔒 **100% private** — runs locally using `gemma4:e2b` via Ollama
-- 🛠️ **20+ tools** — web search, YouTube, WhatsApp, file management, desktop automation
-- ��️ **Real-time voice** — Whisper STT + Edge TTS for natural conversation
-- 🖱️ Windows UIAutomation integration for native app control
-- ⭐ **1 star** · `Python` · `AI` · `Agentic` · `Ollama`
-
----
+### 🎵 [simple-lyrics-app](https://github.com/AFcoder10/simple-lyrics-app)
+Minimal app to quickly search and read song lyrics.
+- Fast lookup flow
+- Lightweight and beginner-friendly
+- `JavaScript` · `Lyrics` · `Web App`
 
 ### 🤖 [squirtleboss](https://github.com/AFcoder10/squirtleboss)
-> A Discord bot built in Python.
-
-- 💬 Automates Discord server interactions
-- 🐍 Built with Python
+Discord bot built in Python for automating server interactions.
+- Helpful server automation commands
+- Lightweight bot workflow
 - `Python` · `Discord Bot`
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AFcoder10&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AFcoder10&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+## 🌌 Current Vibe
+`Build cool stuff` · `Keep it clean` · `Ship fast` · `Learn always`
 
 ---
-
-<p align="center">
-  <em>Feel free to explore my projects and reach out if you want to collaborate! 🚀</em>
-</p>
+*Feel free to explore my projects and reach out if you want to collaborate! 🚀*
